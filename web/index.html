@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1M2JS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="kopje">museum online javascript</h1>
+    <p id="mkBlauw">maak de achtergrond blauw</p>
+    <p id="mkGroen">maak de achtergrond groen</p>
+    <p id="mkPaars">maak de achtergrond paars</p>
+    <script>
+        const kopje = document.getElementById("kopje");
+        const mkBlauw = document.getElementById('mkBlauw');
+        const mkGroen = document. getElementById('mkGroen')
+        const mkPaars = document. getElementById('mkPaars')
+        kopje.style.backgroundColor = "darkblue";
+
+        kopje.addEventListener('click',voeruitKopje);
+        mkBlauw.addEventListener('click',voeruitBlauw);
+        mkGroen.addEventListener('click',voeruitGroen);
+        mkPaars.addEventListener('click',voeruitPaars);
+        function voeruitKopje(){
+            kopje.style.backgroundColor = "lightblue";
+            kopje.style.color = "black";
+        }
+
+        function voeruitBlauw(){
+            document.body.style.backgroundColor = "blue";
+            document.body.style.color = "white";
+            kopje.style.backgroundColor = "white";
+            kopje.style.color = "black";
+        }
+
+        function voeruitGroen(){
+            document.body.style.backgroundColor = "darkgreen"
+            document.body.style.color = "white"
+            kopje.style.backgroundColor = "lightgreen"
+            kopje.style.color = "green"
+        }
+
+        function voeruitPaars(){
+            document.body.style.backgroundColor = "purple"
+            document.body.style.color = "white"
+            kopje.style.backgroundColor = "white"
+            kopje.style.color = "purple"
+        }
+
+
+    </script>
+    
+</body>
+</html>
