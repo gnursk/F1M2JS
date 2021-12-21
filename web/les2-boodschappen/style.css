@@ -19,6 +19,15 @@ section{
 h2{
     margin: 0 0 10px 0; /*Top Right Left Bottom*/
 }
+
+.rood{
+    color: red;
+}
+
+.groen{
+    color: green;
+}
+
 button{
     padding: 10px 20px;
     background-color: antiquewhite;
