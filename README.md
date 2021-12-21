@@ -7,6 +7,8 @@ Nick Kreuk
 
 - [opdracht 2 - Boodschappen](https://32829.hosts1.ma-cloud.nl/f1m2js/les2-boodschappen)
   
-- [opdracht 3 - Gallerij](https://32829.hosts1.ma-cloud.nl/f1m2js/les3-tentoonstelling)
+- [opdracht 3 - tentoonstelling](https://32829.hosts1.ma-cloud.nl/f1m2js/les3-tentoonstelling)
+
+- [opdracht 4 - seisoenen](https://32829.hosts1.ma-cloud.nl/f1m2js/les4-seisoenen)
 
 - [gallarij](https://32829.hosts1.ma-cloud.nl/f1m2js/jsGallerij)
