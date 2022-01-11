@@ -11,4 +11,6 @@ Nick Kreuk
 
 - [opdracht 4 - seisoenen](https://32829.hosts1.ma-cloud.nl/f1m2js/les4-seisoenen)
 
+- [opdract 5 - Silver Bullet Adventure](http://32829.hosts1.ma-cloud.nl/f1m2js/les5-silver-bullet-adventure/)
+
 - [gallarij](https://32829.hosts1.ma-cloud.nl/f1m2js/jsGallerij)
