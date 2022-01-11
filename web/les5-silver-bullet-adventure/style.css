@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+
+#container{
+    background-color: cornflowerblue;
+    width: 900px;
+    height: 600px;
+    margin: 50px auto auto auto; 
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+#myInteraction{
+    padding: 10px;
+}
